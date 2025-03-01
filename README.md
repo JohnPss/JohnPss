@@ -22,10 +22,13 @@ I'm a Computer Engineering student at CEFET-MG
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/JohnPss"><img src="https://github-readme-stats.vercel.app/api?username=JohnPss&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="JohnPss's GitHub stats" /></a>
+<div align="center">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=JohnPss&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnPss&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JohnPss&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
