@@ -5,8 +5,7 @@
 - 🌍 Divinópolis-MG
 - 📫 How to find me: [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-pedro-siqueira-647b1a260/)| [E-mail](joaopedrosilvasiqueira1@gmail.com)
   
-[![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnPss)](https://github.com/anuraghazra/github-readme-stats)
-
+![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnPss&show_icons=true&theme=tokyonight)
 <!--
 **JohnPss/JohnPss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
