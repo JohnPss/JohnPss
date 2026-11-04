@@ -1,8 +1,10 @@
 name: Profile assets
 
-# Builds every dynamic image in the README (stats cards,
-# 3D contribution graph, snake) and publishes them to the `output` branch,
-# so `main` stays clean and nothing depends on rate-limited public APIs.
+# Renders the neofetch card (scripts/neofetch.py) and the snake, then publishes
+# them to the `assets` branch so `main` stays clean.
+#
+# Optional: add a repo secret PROFILE_TOKEN (classic PAT with `repo` + `read:user`)
+# to also count private contributions/commits. Falls back to GITHUB_TOKEN.
 
 on:
   schedule:
@@ -19,56 +21,37 @@ concurrency:
   group: profile-assets
   cancel-in-progress: true
 
-env:
-  THEME: bg_color=0d1117&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&border_color=30363d&hide_border=false&border_radius=10
-
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v7
 
-      # ---------- stats cards ----------
-      - name: Stats card
-        uses: stats-organization/github-readme-stats-action@v2
+      - uses: actions/setup-python@v7
         with:
-          card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&${{ env.THEME }}
-          path: dist/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          python-version: "3.13"
 
-      - name: Top languages card
-        uses: stats-organization/github-readme-stats-action@v2
-        with:
-          card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&langs_count=8&exclude_repo=MIC1-Atualizado,Desafio-Concert---Formando-Devs,k8s-alta-disponibilidade&${{ env.THEME }}
-          path: dist/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-
-      # ---------- 3D contribution graph ----------
-      - name: 3D contribution graph
-        uses: yoshi389111/github-profile-3d-contrib@v0.9.3
+      - name: Neofetch card
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PROFILE_TOKEN || secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
+        run: |
+          pip install --quiet pillow
+          curl -sSL "https://github.com/${USERNAME}.png?size=400" -o avatar.png
+          python scripts/neofetch.py avatar.png dist
 
-      - name: Move 3D graph into dist
-        run: mkdir -p dist && cp profile-3d-contrib/*.svg dist/
-
-      # ---------- snake ----------
       - name: Snake
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/snake.svg
+            dist/snake.svg?color_snake=#007a7a&color_dots=#ebedf0,#b2e5e5,#66cccc,#00a3a3,#006666
             dist/snake-dark.svg?palette=github-dark&color_snake=#00bfbf&color_dots=#161b22,#0e4d4d,#007a7a,#00a3a3,#00e5e5
 
-      # ---------- publish ----------
-      - name: Publish to output branch
+      - name: Publish to assets branch
         uses: crazy-max/ghaction-github-pages@v5
         with:
-          target_branch: output
+          target_branch: assets
           build_dir: dist
           keep_history: false
           commit_message: "chore: update profile assets"
