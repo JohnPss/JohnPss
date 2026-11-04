@@ -60,11 +60,6 @@ struct Engineer {
 ## 📊 GitHub stats
 
 <p align="center">
-  <img height="180" src="https://raw.githubusercontent.com/JohnPss/JohnPss/output/stats.svg" alt="GitHub stats"/>
-  <img height="180" src="https://raw.githubusercontent.com/JohnPss/JohnPss/output/top-langs.svg" alt="Top languages"/>
-</p>
-
-<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JohnPss/JohnPss/output/profile-night-rainbow.svg"/>
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JohnPss/JohnPss/output/profile-season.svg"/>
