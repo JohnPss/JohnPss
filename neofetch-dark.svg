@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="934" height="590" viewBox="0 0 934 590" font-family="ConsolasFallback,Consolas,'DejaVu Sans Mono',monospace" font-size="14px">
+<style>
+.key{fill:#00bfbf} .text{fill:#c9d1d9} .dots{fill:#484f58}
+.add{fill:#3fb950} .rem{fill:#f85149} .art{fill:#00a3a3}
+.cursor{fill:#00bfbf;animation:blink 1s step-end infinite}
+@keyframes blink{50%{opacity:0}}
+.row{opacity:0;animation:in .35s ease-out forwards}
+@keyframes in{from{opacity:0;transform:translateX(-6px)}to{opacity:1;transform:none}}
+@media (prefers-reduced-motion:reduce){.row,.cursor{animation:none;opacity:1}}
+</style>
+<rect width="934" height="590" rx="12" fill="#0d1117" stroke="#30363d"/>
+<text x="24" y="30" class="art" xml:space="preserve">                                            </text>
+<text x="24" y="50" class="art" xml:space="preserve">              *  +++=                       </text>
+<text x="24" y="70" class="art" xml:space="preserve">             - =:.........-+                </text>
+<text x="24" y="90" class="art" xml:space="preserve">            ...................-            </text>
+<text x="24" y="110" class="art" xml:space="preserve">         -......................:           </text>
+<text x="24" y="130" class="art" xml:space="preserve">         ......:-...-.............          </text>
+<text x="24" y="150" class="art" xml:space="preserve">        .....+%####%%*:-++-:........        </text>
+<text x="24" y="170" class="art" xml:space="preserve">       -....+@@@@@@%%@%%###+=:......        </text>
+<text x="24" y="190" class="art" xml:space="preserve">        :.-%@%%@@@@%%%%%#***++=....:        </text>
+<text x="24" y="210" class="art" xml:space="preserve">        - @@#%#***#%%%%%%##*++-:...         </text>
+<text x="24" y="230" class="art" xml:space="preserve">        -*@%@%%%*#**%@%##+==--:-..          </text>
+<text x="24" y="250" class="art" xml:space="preserve">      #@%%@%#+#+-+*%@%*====+==::.=          </text>
+<text x="24" y="270" class="art" xml:space="preserve">      @@%@@@@@@%%%%%##+--+=--::-            </text>
+<text x="24" y="290" class="art" xml:space="preserve">      @#%@@  @@%@@%@@@*+-+*++--:=           </text>
+<text x="24" y="310" class="art" xml:space="preserve">        %%@  @@@%@#*@#=**=**++-:=           </text>
+<text x="24" y="330" class="art" xml:space="preserve">         #@   @@%##*+*-==**++=::            </text>
+<text x="24" y="350" class="art" xml:space="preserve">          @@@@*+####*+=-==+++-:             </text>
+<text x="24" y="370" class="art" xml:space="preserve">          #@@@#####+#*-:===+:=              </text>
+<text x="24" y="390" class="art" xml:space="preserve">          #+%@@@@%%****=+#+:-               </text>
+<text x="24" y="410" class="art" xml:space="preserve">          @#=*#%@@@%#***+-:.+               </text>
+<text x="24" y="430" class="art" xml:space="preserve">          @@@*+==*##*=::.:--:.:-            </text>
+<text x="24" y="450" class="art" xml:space="preserve">          @@@@@%#+==--=+**+=:..............:</text>
+<text x="24" y="470" class="art" xml:space="preserve">         #@@@@@@%#####%##*+=................</text>
+<text x="24" y="490" class="art" xml:space="preserve">      .:@@@@@@@@%%%%%%%###+:................</text>
+<text x="24" y="510" class="art" xml:space="preserve">   :... @%@@@@@@@%%%@@%%%+..................</text>
+<text x="24" y="530" class="art" xml:space="preserve">...:::.   @@@@@@@@@@@@@#-...................</text>
+<text x="24" y="550" class="art" xml:space="preserve">:.::::.=  @ @@@     @  .:...................</text>
+<text x="422" y="30" class="row" style="animation-delay:0.00s" xml:space="preserve"><tspan class="key">joao</tspan><tspan class="text">@</tspan><tspan class="key">siqueira</tspan><tspan class="text"> </tspan><tspan class="dots">--------------------------------------------</tspan></text>
+<text x="422" y="50" class="row" style="animation-delay:0.04s" xml:space="preserve"><tspan class="dots">. </tspan><tspan class="key">OS</tspan><tspan class="text">:</tspan><tspan class="dots"> ............................ </tspan><tspan class="text">Ubuntu 24.04 LTS, Linux</tspan></text>
+<text x="422" y="70" class="row" style="animation-delay:0.08s" xml:space="preserve"><tspan class="dots">. </tspan><tspan class="key">Uptime</tspan><tspan class="text">:</tspan><tspan class="dots"> ..................... </tspan><tspan class="text">3 years, 9 months, 25 days</tspan></text>
+<text x="422" y="90" class="row" style="animation-delay:0.12s" xml:space="preserve"><tspan class="dots">. </tspan><tspan class="key">Host</tspan><tspan class="text">:</tspan><tspan class="dots"> ................... </tspan><tspan class="text">CEFET-MG, Computer Engineering</tspan></text>
+<text x="422" y="110" class="row" style="animation-delay:0.16s" xml:space="preserve"><tspan class="dots">. </tspan><tspan class="key">Location</tspan><tspan class="text">:</tspan><tspan class="dots"> ....................... </tspan><tspan class="text">Divinópolis-MG, Brazil</tspan></text>
+<text x="422" y="130" class="row" style="animation-delay:0.20s" xml:space="preserve"><tspan class="dots">. </tspan><tspan class="key">IDE</tspan><tspan class="text">:</tspan><tspan class="dots"> ........................................... </tspan><tspan class="text">VS Code</tspan></text>
+<text x="422" y="150" class="row" style="animation-delay:0.24s" xml:space="preserve"></text>
+<text x="422" y="170" class="row" style="animation-delay:0.28s" xml:space="preserve"><tspan class="dots">. </tspan><tspan class="key">Languages.Programming</tspan><tspan class="text">:</tspan><tspan class="dots"> ..... </tspan><tspan class="text">C++, C, Python, Java, R, TS</tspan></text>
+<text x="422" y="190" class="row" style="animation-delay:0.32s" xml:space="preserve"><tspan class="dots">. </tspan><tspan class="key">Languages.Hardware</tspan><tspan class="text">:</tspan><tspan class="dots"> ........................ </tspan><tspan class="text">VHDL (FPGA)</tspan></text>
+<text x="422" y="210" class="row" style="animation-delay:0.36s" xml:space="preserve"><tspan class="dots">. </tspan><tspan class="key">Languages.Real</tspan><tspan class="text">:</tspan><tspan class="dots"> .................... </tspan><tspan class="text">Portuguese, English</tspan></text>
+<text x="422" y="230" class="row" style="animation-delay:0.40s" xml:space="preserve"></text>
+<text x="422" y="250" class="row" style="animation-delay:0.44s" xml:space="preserve"><tspan class="dots">. </tspan><tspan class="key">Building.Research</tspan><tspan class="text">:</tspan><tspan class="dots"> .......................... </tspan><tspan class="text">NetCanDrug</tspan></text>
+<text x="422" y="270" class="row" style="animation-delay:0.48s" xml:space="preserve"><tspan class="dots">. </tspan><tspan class="key">Building.Products</tspan><tspan class="text">:</tspan><tspan class="dots"> ............ </tspan><tspan class="text">BoraPelada, IntegraDerme</tspan></text>
+<text x="422" y="290" class="row" style="animation-delay:0.52s" xml:space="preserve"><tspan class="dots">. </tspan><tspan class="key">Interests</tspan><tspan class="text">:</tspan><tspan class="dots"> ................. </tspan><tspan class="text">Algorithms, Bioinfo, DevOps</tspan></text>
+<text x="422" y="310" class="row" style="animation-delay:0.56s" xml:space="preserve"></text>
+<text x="422" y="330" class="row" style="animation-delay:0.60s" xml:space="preserve"><tspan class="text">- Contact </tspan><tspan class="dots">------------------------------------------------</tspan></text>
+<text x="422" y="350" class="row" style="animation-delay:0.64s" xml:space="preserve"><tspan class="dots">. </tspan><tspan class="key">Email</tspan><tspan class="text">:</tspan><tspan class="dots"> ............... </tspan><tspan class="text">joaopedrosilvasiqueira1@gmail.com</tspan></text>
+<text x="422" y="370" class="row" style="animation-delay:0.68s" xml:space="preserve"><tspan class="dots">. </tspan><tspan class="key">LinkedIn</tspan><tspan class="text">:</tspan><tspan class="dots"> ....................... </tspan><tspan class="text">in/joão-pedro-siqueira</tspan></text>
+<text x="422" y="390" class="row" style="animation-delay:0.72s" xml:space="preserve"><tspan class="dots">. </tspan><tspan class="key">Discord</tspan><tspan class="text">:</tspan><tspan class="dots"> ....................................... </tspan><tspan class="text">johnpss</tspan></text>
+<text x="422" y="410" class="row" style="animation-delay:0.76s" xml:space="preserve"></text>
+<text x="422" y="430" class="row" style="animation-delay:0.80s" xml:space="preserve"><tspan class="text">- GitHub Stats </tspan><tspan class="dots">-------------------------------------------</tspan></text>
+<text x="422" y="450" class="row" style="animation-delay:0.84s" xml:space="preserve"><tspan class="dots">. </tspan><tspan class="key">Repos</tspan><tspan class="text">:</tspan><tspan class="dots"> .... </tspan><tspan class="text">14 {Contributed: 4}</tspan><tspan class="text"> | </tspan><tspan class="key">Stars</tspan><tspan class="text">:</tspan><tspan class="dots"> ............ </tspan><tspan class="text">18</tspan></text>
+<text x="422" y="470" class="row" style="animation-delay:0.88s" xml:space="preserve"><tspan class="dots">. </tspan><tspan class="key">Commits</tspan><tspan class="text">:</tspan><tspan class="dots"> ................ </tspan><tspan class="text">1,112</tspan><tspan class="text"> | </tspan><tspan class="key">Followers</tspan><tspan class="text">:</tspan><tspan class="dots"> ........ </tspan><tspan class="text">37</tspan></text>
+<text x="422" y="490" class="row" style="animation-delay:0.92s" xml:space="preserve"><tspan class="dots">. </tspan><tspan class="key">Lines of Code</tspan><tspan class="text">:</tspan><tspan class="dots"> ........ </tspan><tspan class="text">400,142 ( </tspan><tspan class="add">555,837++</tspan><tspan class="text">, </tspan><tspan class="rem">155,695--</tspan><tspan class="text"> )</tspan></text>
+<text x="422" y="510" class="row" style="animation-delay:0.96s" xml:space="preserve"><tspan class="text">$ </tspan><tspan class="cursor">█</tspan></text>
+</svg>
