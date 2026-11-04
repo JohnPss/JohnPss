@@ -40,9 +40,8 @@ struct Engineer {
 ```
 
 - 🧬 Building **[NetCanDrug](https://github.com/JohnPss/NetCanDrug)**, a network-medicine framework for drug repositioning in breast cancer
-- 🎬 Wrote a hybrid **movie recommender** in C++ (Collaborative Filtering with LSH + MinHash, plus content-based)
-- ⚽ Shipping **BoraPelada**, a pickup-soccer manager with player ratings and automatic team balancing
-- 🧠 Grinding **[LeetCode](https://github.com/JohnPss/leetcode)** to sharpen problem solving
+- ⚽ Shipping **[BoraPelada](https://borapelada-xi.vercel.app/)**: balanced team draws by algorithm, live match board, blind peer ratings and a monthly MVP ranking
+- 🩺 Building **[IntegraDerme](https://integraderme-web.vercel.app)**, clinical management of skin lesions for the primary-care network of Divinópolis-MG
 
 ---
 
@@ -54,17 +53,6 @@ struct Engineer {
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,fastapi,nodejs,postgres,supabase&theme=dark" alt="Web"/>
   <br/>
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,ubuntu,bash,git,github,githubactions,vercel,vscode&theme=dark" alt="Tools"/>
-</p>
-
----
-
-## 🚀 Featured projects
-
-<p align="center">
-  <a href="https://github.com/JohnPss/NetCanDrug"><img width="49%" src="https://raw.githubusercontent.com/JohnPss/JohnPss/output/pin-NetCanDrug.svg" alt="NetCanDrug"/></a>
-  <a href="https://github.com/JohnPss/MovieRecoSystem"><img width="49%" src="https://raw.githubusercontent.com/JohnPss/JohnPss/output/pin-MovieRecoSystem.svg" alt="MovieRecoSystem"/></a>
-  <a href="https://github.com/JohnPss/FirePropagationSimulator"><img width="49%" src="https://raw.githubusercontent.com/JohnPss/JohnPss/output/pin-FirePropagationSimulator.svg" alt="FirePropagationSimulator"/></a>
-  <a href="https://github.com/JohnPss/leetcode"><img width="49%" src="https://raw.githubusercontent.com/JohnPss/JohnPss/output/pin-leetcode.svg" alt="LeetCode solutions"/></a>
 </p>
 
 ---
