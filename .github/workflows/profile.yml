@@ -1,6 +1,6 @@
 name: Profile assets
 
-# Builds every dynamic image in the README (stats cards, pinned repos,
+# Builds every dynamic image in the README (stats cards,
 # 3D contribution graph, snake) and publishes them to the `output` branch,
 # so `main` stays clean and nothing depends on rate-limited public APIs.
 
