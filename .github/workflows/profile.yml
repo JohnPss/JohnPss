@@ -18,7 +18,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: profile-assets
+  group: profile-assets-terminal
   cancel-in-progress: true
 
 jobs:
