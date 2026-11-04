@@ -1,47 +1,84 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+João+Pedro+Siqueira;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
-
-I'm a Computer Engineering student at CEFET-MG
-
-* 🌍  I'm based in Divinópolis - MG
-* ✉️  You can contact me at [joaopedrosilvasiqueira1@gmail.com](mailto:joaopedrosilvasiqueira1@gmail.com)
-
-### Skills
-
-
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<!-- Header -->
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:003d3d,50:007a7a,100:00e5e5&height=220&section=header&text=Jo%C3%A3o%20Pedro%20Siqueira&fontSize=52&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Computer%20Engineering%20%40%20CEFET-MG&descSize=20&descAlignY=56" alt="João Pedro Siqueira"/>
 </p>
 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3500&pause=900&color=00BFBF&center=true&vCenter=true&width=720&lines=Algorithms+%26+data+structures+in+C%2B%2B;Network+medicine+%2B+bioinformatics+in+Python;Full-stack+apps+with+Next.js+%26+FastAPI;Kubernetes%2C+Docker+and+Linux+tinkerer;From+VHDL+on+FPGAs+to+the+cloud+%E2%98%81%EF%B8%8F" alt="Typing SVG"/>
+  </a>
+</p>
 
-### Socials
+<p align="center">
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-siqueira-647b1a260/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:joaopedrosilvasiqueira1@gmail.com"><img src="https://img.shields.io/badge/Email-00BFBF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://discord.com/users/johnpss"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
+  <img src="https://komarev.com/ghpvc/?username=JohnPss&style=for-the-badge&color=00bfbf&label=profile+views" alt="Profile views"/>
+</p>
 
-<p align="left"> <a href="https://discord.com/users/johnpss" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/JohnPss" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-siqueira-647b1a260/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+---
 
-### Badges
+## 👨‍💻 About me
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=JohnPss&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="João Pedro Siqueira github stats"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnPss&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-</div>
+```cpp
+struct Engineer {
+    std::string name     = "João Pedro Siqueira";
+    std::string role     = "Computer Engineering student";
+    std::string school   = "CEFET-MG";
+    std::string location = "Divinópolis - MG, Brazil 🇧🇷";
 
+    std::vector<std::string> interests = {
+        "algorithms & data structures",
+        "bioinformatics / network medicine",
+        "recommender systems",
+        "distributed systems & DevOps",
+        "computer architecture (FPGA / VHDL)"
+    };
 
+    std::string motto = "make it work, make it right, make it fast";
+};
+```
 
+- 🧬 Building **[NetCanDrug](https://github.com/JohnPss/NetCanDrug)**, a network-medicine framework for drug repositioning in breast cancer
+- ⚽ Shipping **[BoraPelada](https://borapelada-xi.vercel.app/)**: balanced team draws by algorithm, live match board, blind peer ratings and a monthly MVP ranking
+- 🩺 Building **[IntegraDerme](https://integraderme-web.vercel.app)**, clinical management of skin lesions for the primary-care network of Divinópolis-MG
 
-<!--
-**JohnPss/JohnPss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🛠️ Tech stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---> 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,r,ts,js&theme=dark" alt="Languages"/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,fastapi,nodejs,postgres,supabase&theme=dark" alt="Web"/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,ubuntu,bash,git,github,githubactions,vercel,vscode&theme=dark" alt="Tools"/>
+</p>
+
+---
+
+## 📊 GitHub stats
+
+<p align="center">
+  <img height="180" src="https://raw.githubusercontent.com/JohnPss/JohnPss/output/stats.svg" alt="GitHub stats"/>
+  <img height="180" src="https://raw.githubusercontent.com/JohnPss/JohnPss/output/top-langs.svg" alt="Top languages"/>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JohnPss/JohnPss/output/profile-night-rainbow.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JohnPss/JohnPss/output/profile-season.svg"/>
+    <img width="100%" src="https://raw.githubusercontent.com/JohnPss/JohnPss/output/profile-night-rainbow.svg" alt="3D contribution graph"/>
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JohnPss/JohnPss/output/snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JohnPss/JohnPss/output/snake.svg"/>
+    <img width="100%" src="https://raw.githubusercontent.com/JohnPss/JohnPss/output/snake-dark.svg" alt="Snake eating my contributions"/>
+  </picture>
+</p>
+
+<!-- Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:003d3d,50:007a7a,100:00e5e5&height=120&section=footer"/>
