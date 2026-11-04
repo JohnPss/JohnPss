@@ -70,12 +70,12 @@ jobs:
           path: dist/pin-FirePropagationSimulator.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Pin - borapelada
+      - name: Pin - leetcode
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: pin
-          options: username=${{ github.repository_owner }}&repo=borapelada&description_lines_count=3&${{ env.THEME }}
-          path: dist/pin-borapelada.svg
+          options: username=${{ github.repository_owner }}&repo=leetcode&description_lines_count=3&${{ env.THEME }}
+          path: dist/pin-leetcode.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       # ---------- 3D contribution graph ----------

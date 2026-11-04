@@ -41,7 +41,7 @@ struct Engineer {
 
 - 🧬 Building **[NetCanDrug](https://github.com/JohnPss/NetCanDrug)**, a network-medicine framework for drug repositioning in breast cancer
 - 🎬 Wrote a hybrid **movie recommender** in C++ (Collaborative Filtering with LSH + MinHash, plus content-based)
-- ⚽ Shipping **[BoraPelada](https://github.com/JohnPss/borapelada)**, a pickup-soccer manager with player ratings and automatic team balancing
+- ⚽ Shipping **BoraPelada**, a pickup-soccer manager with player ratings and automatic team balancing
 - 🧠 Grinding **[LeetCode](https://github.com/JohnPss/leetcode)** to sharpen problem solving
 
 ---
@@ -64,7 +64,7 @@ struct Engineer {
   <a href="https://github.com/JohnPss/NetCanDrug"><img width="49%" src="https://raw.githubusercontent.com/JohnPss/JohnPss/output/pin-NetCanDrug.svg" alt="NetCanDrug"/></a>
   <a href="https://github.com/JohnPss/MovieRecoSystem"><img width="49%" src="https://raw.githubusercontent.com/JohnPss/JohnPss/output/pin-MovieRecoSystem.svg" alt="MovieRecoSystem"/></a>
   <a href="https://github.com/JohnPss/FirePropagationSimulator"><img width="49%" src="https://raw.githubusercontent.com/JohnPss/JohnPss/output/pin-FirePropagationSimulator.svg" alt="FirePropagationSimulator"/></a>
-  <a href="https://github.com/JohnPss/borapelada"><img width="49%" src="https://raw.githubusercontent.com/JohnPss/JohnPss/output/pin-borapelada.svg" alt="BoraPelada"/></a>
+  <a href="https://github.com/JohnPss/leetcode"><img width="49%" src="https://raw.githubusercontent.com/JohnPss/JohnPss/output/pin-leetcode.svg" alt="LeetCode solutions"/></a>
 </p>
 
 ---
