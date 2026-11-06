@@ -24,7 +24,7 @@
 struct Engineer {
     std::string name     = "João Pedro Siqueira";
     std::string role     = "Computer Engineering student";
-    std::string school   = "UFCI";  
+    std::string school   = "UFCI";
     std::string location = "Divinópolis - MG, Brazil 🇧🇷";
 
     std::vector<std::string> interests = {
