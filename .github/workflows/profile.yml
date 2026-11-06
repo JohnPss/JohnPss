@@ -1,7 +1,7 @@
 name: Profile assets
 
-# Builds every dynamic image in the README (stats cards,
-# 3D contribution graph, snake) and publishes them to the `output` branch,
+# Builds the 3D contribution graph and the snake for the README
+# (the stats cards come from cool-readme.yml) and publishes them to the `output` branch,
 # so `main` stays clean and nothing depends on rate-limited public APIs.
 
 on:
@@ -19,31 +19,11 @@ concurrency:
   group: profile-assets
   cancel-in-progress: true
 
-env:
-  THEME: bg_color=0d1117&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&border_color=30363d&hide_border=false&border_radius=10
-
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v7
-
-      # ---------- stats cards ----------
-      - name: Stats card
-        uses: stats-organization/github-readme-stats-action@v2
-        with:
-          card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&${{ env.THEME }}
-          path: dist/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Top languages card
-        uses: stats-organization/github-readme-stats-action@v2
-        with:
-          card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&langs_count=8&exclude_repo=MIC1-Atualizado,Desafio-Concert---Formando-Devs,k8s-alta-disponibilidade&${{ env.THEME }}
-          path: dist/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
 
       # ---------- 3D contribution graph ----------
       - name: 3D contribution graph

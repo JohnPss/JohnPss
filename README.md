@@ -59,10 +59,28 @@ struct Engineer {
 
 ## 📊 GitHub stats
 
+<!-- cool-readme:start -->
 <p align="center">
-  <img height="180" src="https://raw.githubusercontent.com/JohnPss/JohnPss/output/stats.svg" alt="GitHub stats"/>
-  <img height="180" src="https://raw.githubusercontent.com/JohnPss/JohnPss/output/top-langs.svg" alt="Top languages"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JohnPss/JohnPss/cards/summary-dark.svg">
+  <img src="https://raw.githubusercontent.com/JohnPss/JohnPss/cards/summary-light.svg" width="450" alt="GitHub stats">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JohnPss/JohnPss/cards/languages-dark.svg">
+  <img src="https://raw.githubusercontent.com/JohnPss/JohnPss/cards/languages-light.svg" width="350" alt="Most used languages">
+</picture>
 </p>
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JohnPss/JohnPss/cards/contributions-dark.svg">
+  <img src="https://raw.githubusercontent.com/JohnPss/JohnPss/cards/contributions-light.svg" width="450" alt="Notable contributions">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JohnPss/JohnPss/cards/weekly-dark.svg">
+  <img src="https://raw.githubusercontent.com/JohnPss/JohnPss/cards/weekly-light.svg" width="350" alt="Weekly rhythm">
+</picture>
+</p>
+<!-- cool-readme:end -->
 
 <p align="center">
   <picture>
