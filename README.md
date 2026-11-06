@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:003d3d,50:007a7a,100:00e5e5&height=220&section=header&text=Jo%C3%A3o%20Pedro%20Siqueira&fontSize=52&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Computer%20Engineering%20%40%20CEFET-MG&descSize=20&descAlignY=56" alt="João Pedro Siqueira"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:003d3d,50:007a7a,100:00e5e5&height=220&section=header&text=Jo%C3%A3o%20Pedro%20Siqueira&fontSize=52&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Computer%20Engineering%20%40%20UFCI&descSize=20&descAlignY=56" alt="João Pedro Siqueira"/>
 </p>
 
 <p align="center">
@@ -24,7 +24,7 @@
 struct Engineer {
     std::string name     = "João Pedro Siqueira";
     std::string role     = "Computer Engineering student";
-    std::string school   = "CEFET-MG";
+    std::string school   = "UFCI";  
     std::string location = "Divinópolis - MG, Brazil 🇧🇷";
 
     std::vector<std::string> interests = {
