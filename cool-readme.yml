@@ -4,5 +4,5 @@ style: classic
 summary:
   ring: github          # the GitHub logo in the ring
 include:
-  private: true         # needs the CARDS_TOKEN secret; only totals are shown
+  private: true         # needs the PROFILE secret; only totals are shown
   orgs: true
