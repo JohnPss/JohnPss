@@ -17,46 +17,6 @@
 </p>
 
 ---
-
-## 👨‍💻 About me
-
-```cpp
-struct Engineer {
-    std::string name     = "João Pedro Siqueira";
-    std::string role     = "Computer Engineering student";
-    std::string school   = "UFCI";
-    std::string location = "Divinópolis - MG, Brazil 🇧🇷";
-
-    std::vector<std::string> interests = {
-        "algorithms & data structures",
-        "bioinformatics / network medicine",
-        "recommender systems",
-        "distributed systems & DevOps",
-        "computer architecture (FPGA / VHDL)"
-    };
-
-    std::string motto = "make it work, make it right, make it fast";
-};
-```
-
-- 🧬 Building **[NetCanDrug](https://github.com/JohnPss/NetCanDrug)**, a network-medicine framework for drug repositioning in breast cancer
-- ⚽ Shipping **[BoraPelada](https://borapelada-xi.vercel.app/)**: balanced team draws by algorithm, live match board, blind peer ratings and a monthly MVP ranking
-- 🩺 Building **[IntegraDerme](https://integraderme-web.vercel.app)**, clinical management of skin lesions for the primary-care network of Divinópolis-MG
-
----
-
-## 🛠️ Tech stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,r,ts,js&theme=dark" alt="Languages"/>
-  <br/>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,fastapi,nodejs,postgres,supabase&theme=dark" alt="Web"/>
-  <br/>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,ubuntu,bash,git,github,githubactions,vercel,vscode&theme=dark" alt="Tools"/>
-</p>
-
----
-
 ## 📊 GitHub stats
 
 <!-- cool-readme:start -->
